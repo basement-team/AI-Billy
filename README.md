@@ -46,14 +46,14 @@ Additionally you can use `pyinstaller` to create a binary file.
 
 3. Now you can chat in that channel.
 
-##Commands
+## Commands
 
 |Command (aliases)|Description|
 |--:|:--|
 |respond(ai)|For talking to AI through a command method.|
 |help|basic help command, lists all features.|
 
-##FAQ
+## FAQ
 
 1. I want to add custom responses, how to do it?
 
