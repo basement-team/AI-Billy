@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="Discord" src="https://img.shields.io/discord/750945243305869343?label=Basement&style=flat-square">
-    <img alt="Release" src=https://img.shields.io/github/v/release/billydevyt/AI-Billy?style=flat-square>
+    <img alt="Release" src="https://img.shields.io/github/v/release/billydevyt/AI-Billy?style=for-the-badge">
     <img alt="Heroku" src="https://img.shields.io/badge/heroku-passing-green?style=flat-square">
     <img alt="License" src="https://img.shields.io/github/license/billydevyt/AI-Billy?style=flat-square">
 </p>
