@@ -42,7 +42,7 @@ Additionally you can use `pyinstaller` to create a binary file.
 }
 ```
 
-2. make a channel with the name you gave in `config.json` (by default it is chat-bot)
+2. make a channel with the name you gave in `config.json` (by default it is `chat-bot`)
 
 3. Now you can chat in that channel.
 
