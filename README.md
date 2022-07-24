@@ -43,7 +43,7 @@ python main.py
 	"prefix": "!",
 	"channel": "chat-bot",
 	"startup_file": "std-startup.xml",
-    "owner_id": "bot owner's id"
+    	"owner_id": "bot owner's id"
 }
 ```
 
