@@ -39,11 +39,11 @@ python main.py
 
 ```json
 {
-	"token": "get it from discord developer portal.",
-	"prefix": "!",
-	"channel": "chat-bot",
-	"startup_file": "std-startup.xml",
-    	"owner_id": "bot owner's id"
+    "token": "get it from discord developer portal.",
+    "prefix": "!",
+    "channel": "chat-bot",
+    "startup_file": "std-startup.xml",
+    "owner_id": "bot owner's id"
 }
 ```
 
